@@ -59,7 +59,7 @@ export const ContactSection = () => {
                     href="mailto:hello@gmail.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    b.isra2004@gmail.com
+                    b.asma20042004@gmail.com
                   </a>
                 </div>
               </div>
@@ -130,7 +130,7 @@ export const ContactSection = () => {
                   name="name"
                   required
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-hidden foucs:ring-2 focus:ring-primary"
-                  placeholder="Isra Bouzidi..."
+                  placeholder="Asma Bouzidi..."
                 />
               </div>
 
