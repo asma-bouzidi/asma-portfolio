@@ -19,18 +19,8 @@ const projects = [
     image: "/projects/product-food.png",
     tags: ["React", "Spring Boot", "JWT", "PostgreSQL"],
     demoUrl: "#",
-    githubUrl: "https://github.com/isra-bouzidi/productFood",
-  },
-  {
-    id: 3,
-    title: "Coffee Shop Web App",
-    description:
-      "A full-stack coffee shop application featuring a client side for users to explore and order products, and an admin dashboard for managing inventory and orders.",
-    image: "/projects/coffee-shop.png",
-    tags: ["Angular", "Spring Boot", "MySQL", "Docker"],
-    demoUrl: "#",
-    githubUrl: "https://github.com/isra-bouzidi/coffee-shop-project",
-  },
+    githubUrl: "https://github.com/asma-bouzidi/productFood",
+  }
 ];
 
 
@@ -102,7 +92,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/isra-bouzidi"
+            href="https://github.com/asma-bouzidi"
           >
             Check My Github <ArrowRight size={16} />
           </a>
